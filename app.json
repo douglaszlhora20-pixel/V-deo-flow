@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "VideoFlow",
+    "slug": "videoflow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark"
+  }
+}
